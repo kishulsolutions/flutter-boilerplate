@@ -1,11 +1,12 @@
 import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_boilerplate/custom_Theme.dart';
-import 'package:flutter_boilerplate/custom_colors.dart';
-import 'package:flutter_boilerplate/custom_font.dart';
-import 'package:flutter_boilerplate/custom_locale.dart';
-import 'package:flutter_boilerplate/locale_constants.dart';
+import 'package:flutter_boilerplate/theme/custom_theme.dart';
+import 'package:flutter_boilerplate/theme/custom_colors.dart';
+import 'package:flutter_boilerplate/theme/custom_font.dart';
+import 'package:flutter_boilerplate/translations/custom_locale.dart';
+import 'package:flutter_boilerplate/translations/locale_constants.dart';
+
 
 void showDialogOkay(BuildContext context, bool isSuccess,
     {String? title,

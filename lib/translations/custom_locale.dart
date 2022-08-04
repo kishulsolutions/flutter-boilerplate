@@ -3,11 +3,10 @@ import 'dart:developer';
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_boilerplate/functions.dart';
-import 'package:flutter_boilerplate/keys.dart';
-import 'package:flutter_boilerplate/local_data.dart';
+import 'package:flutter_boilerplate/services/functions.dart';
+import 'package:flutter_boilerplate/local_storage/keys.dart';
+import 'package:flutter_boilerplate/local_storage/local_data.dart';
 import 'package:get/get.dart';
-
 
 class CustomLocale extends Translations {
   @override

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_boilerplate/custom_colors.dart';
+import 'package:flutter_boilerplate/theme/custom_colors.dart';
 import 'package:get/get.dart';
 class CustomSnackBar
 {
