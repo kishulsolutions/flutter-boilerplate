@@ -3,6 +3,7 @@ const String keyAppLocaleCode = "appLocaleCode";
 const String keyAppVersion = "appVersion";
 const String keyProjectVersion = 'projectVersion';
 
+
 // Flag
 const String keyFlagDarkTheme = "flagLightTheme";
 const String keyFlagOnBoarding = "flagOnBoarding";
