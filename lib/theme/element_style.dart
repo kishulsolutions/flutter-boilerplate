@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_boilerplate/custom_Theme.dart';
 import 'package:flutter_boilerplate/theme/custom_colors.dart';
 import 'package:flutter_boilerplate/theme/custom_font.dart';
 import 'package:flutter_boilerplate/common/view_constant.dart';
+import 'package:flutter_boilerplate/theme/custom_theme.dart';
+
+
 TextStyle textLabelStyle() {
   return AppTheme.textTheme.bodyText1 ?? const TextStyle();
 }

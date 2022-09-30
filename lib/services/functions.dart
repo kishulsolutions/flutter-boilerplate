@@ -2,7 +2,7 @@ import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter_boilerplate/translations/custom_locale.dart';
 import 'package:flutter_boilerplate/theme/custom_snack_bar.dart';
 import 'package:flutter_boilerplate/local_storage/keys.dart';
-import 'package:flutter_boilerplate/local_storage/local_data.dart';
+import 'package:flutter_boilerplate/local_storage/local_storage.dart';
 import 'package:get/get.dart';
 import 'package:url_launcher/url_launcher.dart';
 
