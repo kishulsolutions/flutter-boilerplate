@@ -196,7 +196,6 @@ Widget _dialogButtonNegative(
     child: Text(text ?? ""),
     style: ElevatedButton.styleFrom(
       shadowColor: Colors.grey,
-      primary: Colors.grey,
       padding: const EdgeInsets.symmetric(horizontal: 40, vertical: 5),
       textStyle: const TextStyle(
           fontFamily: FontName.ceraPro,

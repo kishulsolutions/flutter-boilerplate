@@ -23,7 +23,7 @@ class CustomSnackBar
     snackBar(text, backgroundColor: Colors.red, textColor: Colors.white);
   }
 
-  static void successSnackbar(String text) {
+  static void successSnackBar(String text) {
     snackBar(text, backgroundColor: Colors.green, textColor: Colors.white);
   }
 }
